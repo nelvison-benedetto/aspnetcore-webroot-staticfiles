@@ -13,6 +13,7 @@ namespace _3_StaticFilesExample
 
             //http://localhost:5000/
             //http://localhost:5000/imgCertificationPythonComputerVision.jpg
+            //http://localhost:5000/myimg.jpg
             app.Run();
         }
     }
